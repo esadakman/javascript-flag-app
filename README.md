@@ -1,4 +1,4 @@
-# Random User App
+# Flag App
 
 ## Objective
 
