@@ -4,6 +4,10 @@ body {
   font-size: 0.8rem;
   height: 100vh;
   width: 100vw;
+  overflow-x: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: baseline;
   /* background: linear-gradient(to top left, #2e619c, #c0ceee); */
 }
 
