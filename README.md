@@ -6,8 +6,7 @@ Build a Flag App using JavaScript.
 
 ## Description
 
-- Project aims to create a Flag App.
-
+- Project aims to create a Flag App. 
 - In this project i made a simple flag app.
 - After selecting the country from the dropdown list, you can see the relevant country's flag, capital, region, language and currency information.
 - I use fetch API for getting data from `https://restcountries.com/v3.1/all`.
@@ -31,8 +30,10 @@ flag_app (folder)
 |----readme.md
 SOLUTION
 ├── assets
+│      ├── images
+│      │      ├── favicon.png 
+│      │      └── morphius.jpg 
 │      ├── app.js
-│      ├── morphius.jpg
 │      └── style.css
 └── index.html
 └── readme.md
